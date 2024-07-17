@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.cabecalho{
+    color: rgb(69, 2, 131);
+    text-shadow: 3px 4px 5px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler;
+}
+.subtitulo{
+    text-decoration: underline;
+    colo: rgb(102, 255, 51);
+}
