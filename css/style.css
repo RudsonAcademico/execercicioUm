@@ -26,3 +26,20 @@ a:hover{
     border-radius: 30px;
     margin-top: 30px;
 }
+.drive{
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.drive:hover{
+    width: 500px;
+    margin-top: 30px;
+}
+.lingo{
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.something{
+    color: #000000;
+}
