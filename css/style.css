@@ -2,12 +2,27 @@ body{
     background-color: rgb(0, 0, 0);
 }
 .cabecalho{
-    color: rgb(69, 2, 131);
-    text-shadow: 3px 4px 5px;
+    color: #b260ff;
+    text-shadow: 3px 3px 6px;
     text-align: center;
     font-family: Impact, Haettenschweiler;
 }
 .subtitulo{
     text-decoration: underline;
-    colo: rgb(102, 255, 51);
+    color: rgb(102, 255, 51);
+}
+.paragrafo{
+    color: #86a7c4;
+}
+a{
+    color: #ffe4c4;
+    font-family: Times New Roman;
+}
+a:hover{
+    color: #382299;
+}
+.gordao{
+    width: 100px;
+    border-radius: 30px;
+    margin-top: 30px;
 }
